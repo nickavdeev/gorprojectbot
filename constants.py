@@ -1,4 +1,4 @@
-TOKEN = '1291432348:AAH1HOhiVlSFn6xWJzjyzlNr-qRCAAWKKg8'
+TOKEN = ''
 
 # Сообщения
 hello_text = '\U0001F680 *Привет!*\n\nЭтот поможет определить тебе, входит ли дом или точка на карте ' \
